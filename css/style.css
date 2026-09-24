@@ -2,9 +2,7 @@ body{
     background-color: #19191a;
 color: #fff;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-width: 80%;
-line-height: 1.6em;
- margin:auto;
+margin: auto;
 }
 p{
 color: #c5c3cd;
@@ -49,4 +47,9 @@ header{
 
 background-color: #438be4;
 
+}
+
+section{
+width: 80%;
+    margin: auto;
 }
